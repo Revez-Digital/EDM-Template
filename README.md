@@ -6,6 +6,7 @@ https://mailchimp.com/
 
 
 2) Replace main image
+	-	Image to be uploaded to revez-motion hosting and used as a link
 
 
 3) Add in footer codes
